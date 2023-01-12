@@ -8,8 +8,7 @@ Te-So-Sh is an easy-to-use python GUI based cross language SRT generator with se
 - With sentiment analysis.
 
 ## Demonstration
-- Loading GIF..  
-
+- https://github.com/TenamSobti/Te-So-Sh/blob/main/TeSoSh.gif
 ![](https://raw.githubusercontent.com/TenamSobti/Te-So-Sh/main/TeSoSh.gif)
 
 ## Features
